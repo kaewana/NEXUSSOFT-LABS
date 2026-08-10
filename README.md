@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nexus — remote software studio website
 
 A full Next.js (App Router) + TypeScript + Tailwind CSS marketing site for a
@@ -62,3 +63,7 @@ dashboard for the contact form to actually deliver mail.
 2. Add real social links in `components/Footer.tsx`.
 3. Add an `og-image.png` and favicon to `/public` and reference them in
    `app/layout.tsx` metadata.
+=======
+# NEXUSSOFT-LABS
+ a software development website companya that will run starting in east afrcica as the founder running it anonymously but geniune person
+>>>>>>> 8bc157208d11fee6373862289ae4e92648893dfb
