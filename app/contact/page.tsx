@@ -14,12 +14,12 @@ const socials = [
   },
   {
     label: "WhatsApp",
-    href: "https://wa.me/15551234567",
+    href: "https://wa.me/254141120958",
     icon: "https://cdn.simpleicons.org/whatsapp/25D366"
   },
   {
     label: "Facebook",
-    href: "https://www.facebook.com/yourcompany",
+    href: "https://www.facebook.com/",
     icon: "https://cdn.simpleicons.org/facebook/1877f2"
   },
   {
