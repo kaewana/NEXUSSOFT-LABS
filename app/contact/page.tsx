@@ -19,7 +19,7 @@ const socials = [
   },
   {
     label: "Facebook",
-    href: "https://www.facebook.com/",
+    href: "https://www.facebook.com/profile.php?id=61591359825637",
     icon: "https://cdn.simpleicons.org/facebook/1877f2"
   },
   {
